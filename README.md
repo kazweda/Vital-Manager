@@ -2,6 +2,9 @@
 
 Vital management application made with AppSheet.
 
+## About
+日々のバイタル（体温、脈拍、血圧、...）を登録して一覧やチャートを表示するアプリです。
+
 ## Background
 不注意の怪我で入院することになって、ベッドの上でなにかできないかと考えていたところ、バイタルの管理アプリを思いついて作り始めました。
 
