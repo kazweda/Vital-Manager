@@ -28,6 +28,6 @@ To install 'Vital Manager' on your mobile device, click on https://www.appsheet.
 
 ## References
 - 共有、公開について
-
+[AppSheetの作品公開方法](https://note.com/mahalo_/n/nffef1aa47f82)
 - ダッシュボードデザイン
-https://youtu.be/ZaOwjePORKo
+[配置のコツ](https://youtu.be/ZaOwjePORKo)
