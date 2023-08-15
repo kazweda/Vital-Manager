@@ -24,8 +24,6 @@ To install 'Vital Manager' on your mobile device, click on https://www.appsheet.
 
 排尿管理は午前5時から翌午前5時までを集計単位としています。
 
-バイタルと排尿の登録は画面左上のアイコンからメニューを開いて操作します。
-
 ## References
 - 共有、公開について
 [AppSheetの作品公開方法](https://note.com/mahalo_/n/nffef1aa47f82)
