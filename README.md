@@ -17,7 +17,7 @@ Vital management application made with AppSheet.
 ## Install
 To install 'Vital Manager' on your mobile device, click on https://www.appsheet.com/newshortcut/1912d1be-8cbb-4371-bc0f-006924c93ca8
 
-
+https://user-images.githubusercontent.com/948237/260847222-31714b8a-f2b0-4872-96b8-c0904048f424.png
 
 ## Functions
 - 患者管理（患者ID、氏名、概要、入院日）
