@@ -12,6 +12,8 @@ Vital management application made with AppSheet.
 
 今朝8/14 4am頃に思いついて、appsheet database から作り始めて6am頃には下地ができました。
 
+その後、バイタルの各項目をチャートにしたり、一覧の表示項目を調整したりしています。
+
 ちなみに現状はベッドから起き上がれないので、横になったままスマホ(Android)のみで作っています。
 
 ## Install
