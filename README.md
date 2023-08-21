@@ -28,6 +28,8 @@ To install 'Vital Manager' on your mobile device, click on https://www.appsheet.
 
 排泄管理は午前5時から翌午前5時までを集計単位として `排尿量 > 0` の回数を日毎に合計しています。
 
+## Screenshots
+[スクリーンショットまとめ](https://github.com/kazweda/Vital-Manager/issues/23)
 ## References
 - 共有、公開について
 [AppSheetの作品公開方法](https://note.com/mahalo_/n/nffef1aa47f82)
