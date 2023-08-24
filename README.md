@@ -8,6 +8,8 @@ Vital management application made with AppSheet.
 本アプリはAppSheetで作っているため、当リポジトリではアプリの説明と課題の管理をしています。
 
 ### Releases
+- 1.000272
+トイレ使用の場合は排尿(Yes/No)をチェックするようにカラムを追加
 - 1.000264
 バイタル記録、排泄記録の参照をスライスにして2日前からの表示に変更
 - 1.000253
@@ -32,7 +34,7 @@ To install 'Vital Manager' on your mobile device, click on https://www.appsheet.
 - バイタル管理（体温、脈拍、血圧上下、血中酸素濃度）
 - 排泄管理（日時、排尿有無、量、排便有無）
 
-排泄管理は午前5時から翌午前5時までを集計単位として `排尿量 > 0` の回数を日毎に合計しています。
+排泄管理は午前5時から翌午前5時までを集計単位として `排尿=Yes` または `排尿量 > 0` の回数を日毎に合計しています。
 
 ## Screenshots
 [スクリーンショットまとめ](https://github.com/kazweda/Vital-Manager/issues/23)
