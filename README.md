@@ -8,6 +8,8 @@ Vital management application made with AppSheet.
 本アプリはAppSheetで作っているため、当リポジトリではアプリの説明と課題の管理をしています。
 
 ### Releases
+- 1.000302
+一覧とチャートの表示範囲を1週間に修正。
 - 1.000272
 トイレ使用の場合は排尿(Yes/No)をチェックするようにカラムを追加
 - 1.000264
