@@ -8,6 +8,12 @@ Vital management application made with AppSheet.
 本アプリはAppSheetで作っているため、当リポジトリではアプリの説明と課題の管理をしています。
 
 ### Releases
+- 1.000313
+排泄記録の表示範囲を
+```
+[MeasureDate] > today() - 7
+```
+に修正
 - 1.000302
 一覧とチャートの表示範囲を1週間に修正。
 - 1.000272
