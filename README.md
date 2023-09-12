@@ -8,6 +8,8 @@ Vital management application made with AppSheet.
 本アプリはAppSheetで作っているため、当リポジトリではアプリの説明と課題の管理をしています。
 
 ### Releases
+- 1.000324
+sign in を不要に設定
 - 1.000320
 排泄に備考(Note)を追加
 - 1.000313
